@@ -1,16 +1,15 @@
-## Hi there 👋
+# 个人简介
+大家好！我是燕山大学电子信息类专业的学生，专注于编程和AI技术学习，目前正在学习Python与嵌入式C语言。
 
-<!--
-**jarvis-ajks/jarvis-ajks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 兴趣爱好
+- 技术探索：热衷于研究AI工具部署、Windows环境下的开发配置问题
+- 游戏热爱：《我的世界》资深玩家，尤其喜欢探索“落幕曲”等特色整合包
+- 生态关注：vivo品牌生态忠实用户，专注多设备联动方案研究
 
-Here are some ideas to get you started:
+## 学习计划
+1. 短期：熟练掌握Git版本控制、Python核心库使用，解决日常开发中的环境配置问题
+2. 中期：深入学习电子信息专业核心课程，提升绩点，为保研做准备
+3. 长期：探索AI与电子信息的交叉领域，积累项目经验，打造个人技术竞争力
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 联系方式
+- 邮箱：2105141163@qq.com
